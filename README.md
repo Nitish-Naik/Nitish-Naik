@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 <div align="center"  <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/Nitish-Naik/count.svg" alt="Visitor's Count" />
 </div>
+-->
 
  
 <h5 align="center">Languages</h3>
@@ -67,4 +68,6 @@ Here are some ideas to get you started:
 
 
 <br><br>
+<!--
 <p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nitish-Naik&amp;layout=donut&amp;langs_count=10&theme=transparent" alt="Language Stats"></p>
+-->
