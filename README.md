@@ -17,16 +17,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-<!--
-<div align="center"  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/Nitish-Naik/count.svg" alt="Visitor's Count" />
-</div>
--->
-
  
 <h5 align="center">Languages</h3>
 <div align="center">
@@ -74,6 +64,26 @@ Here are some ideas to get you started:
 
 
 <br><br>
-<!--
-<p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nitish-Naik&amp;layout=donut&amp;langs_count=10&theme=transparent" alt="Language Stats"></p>
--->
+
+
+
+
+
+## 🔥 Contributions:
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitish-naik&&show_icons=true&theme=dark)](https://git.io/streak-stats)
+
+
+
+
+## ✨ Stats
+
+![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitish-naik&show_icons=true&theme=radical)
+
+
+
+
+## Languages
+![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-naik&layout=compact&theme=buefy&hide_border=true&hide_progress=true)
+
+---
