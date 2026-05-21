@@ -16,7 +16,7 @@
 <p align="center">
   I build full-stack products, backend systems, automation tools, and data pipelines.
   <br />
-  Currently focused on distributed scraping, queues, async processing, and reliable data infrastructure.
+  <!-- Currently focused on distributed scraping, queues, async processing, and reliable data infrastructure. -->
 </p>
 
 ---
@@ -75,15 +75,15 @@
 
 
 
-<h2 align="center">GitHub Activity</h2>
+<!-- <h2 align="center">GitHub Activity</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nitish-naik&theme=dark&hide_border=true" alt="github streak" />
-</p>
+</p> -->
 
-<h2 align="center">Languages</h2>
+<!-- <h2 align="center">Languages</h2>
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-naik&layout=compact&theme=buefy&hide_border=true&hide_progress=true" 
     width="400"
   />
-</p>
+</p> -->
